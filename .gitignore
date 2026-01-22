@@ -1,0 +1,17 @@
+# macOS
+__MACOSX/
+.DS_Store
+
+# Gradle
+**/.gradle/
+**/build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 강의 원본 / 불필요 자료
+*.pdf
+springmvc1-v2020-03-08/
+spring-mvc1-v20240419/
